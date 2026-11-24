@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/banner.png" alt="xpi-ts" width="640"></p>
+
 # xpi-ts
 
 > **TypeScript SDK for Lotus (XPI) wallets and other applications**
